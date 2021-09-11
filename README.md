@@ -16,7 +16,7 @@ Python implementation for "Multi-view co-similarity metric learning" paper
 
 ## Datasets
 
-Four datasets used in the paper ([3-sources](http://mlg.ucd.ie/datasets/3sources.html), [BBCSport](http://mlg.ucd.ie/datasets/), [Caltech101-7](http://www.vision.caltech.edu/Image_Datasets/Caltech101/), [handwritten](https://archive.ics.uci.edu/ml/datasets/Multiple+Features), [ORL](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) and [Reuters](http://archive.ics.uci.edu/ml/datasets.html)) can be found in the data directory (*.mat format).
+All datasets used in the paper ([3-sources](http://mlg.ucd.ie/datasets/3sources.html), [BBCSport](http://mlg.ucd.ie/datasets/), [Caltech101-7](http://www.vision.caltech.edu/Image_Datasets/Caltech101/), [handwritten](https://archive.ics.uci.edu/ml/datasets/Multiple+Features), [ORL](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) and [Reuters](http://archive.ics.uci.edu/ml/datasets.html)) can be found in the data directory (*.mat format).
 
 ## Usage
 
